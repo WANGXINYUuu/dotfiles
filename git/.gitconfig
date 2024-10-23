@@ -1,0 +1,9 @@
+[user]
+    #
+    #
+[core]
+	editor = nvim
+[alias]
+	unstage = reset HEAD --
+	logging = log --all --graph --decorate
+    log-oneline = log --pretty=oneline
